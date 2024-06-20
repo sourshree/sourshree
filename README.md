@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreetama Mohanta</h1>
-<h3 align="center">A student at Vellore Institute of Technology, perusing my B.Tech in ECE</h3>
+<h3 align="center">A student at Vellore Institute of Technology, Vellore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourshree&label=Profile%20views&color=0e75b6&style=flat" alt="sourshree" /> </p>
 
